@@ -1,0 +1,1 @@
+QR_ code_genereter
